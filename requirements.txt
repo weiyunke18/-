@@ -1,0 +1,2 @@
+# 零第三方依赖：仅需 Python 3.8+ 标准库
+# （认证所需的 DES-ECB 已由内置 des_pure.py 纯 Python 实现）
